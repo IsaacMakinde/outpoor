@@ -1,2 +1,2 @@
-# outpoor
-This an application intended to oeprate has a positive mental health platform.
+# outpour
+This is an application intended to operate as a positive mental health platform.
